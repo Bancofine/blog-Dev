@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `blog-Dev`,
-      href: "https://github.com/Bancofine/blog-Dev",
+      href: "https://github.com/Bancofine/morethan-log",
     },
   ],
   // blog setting (required)
